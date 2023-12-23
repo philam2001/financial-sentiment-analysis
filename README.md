@@ -17,8 +17,9 @@ I added an extra feature by doing one-hot encoding on financial phrases and word
 ## ML Methods
 
 Here, I compare Sklearn's Logistic Regression and Random Forest Classifier models after doing hyperparameter tuning. With the most optimal hyperparameters for both models, below is the evaluation metrics for the test data. 
-
-![pic](./images/LRvsRFC.png)
+<!-- 
+![pic](./images/LRvsRFC.png) -->
+<img src="./images/LRvsRFC.png" width="70%" height="70%"/>
 
 The complexities of the RandomForestClassifier model was not advantageous for our stock text dataset as it achieved a lower accuracy than the Logistic Regression model. The accuracies achieved by both models is lower than the ideal for a robust model. However, it represents the best outcome that can come from the data set used. 
 
@@ -33,4 +34,4 @@ A few ideas on how to improve the accuracy of the model:
 
 **Libraries used**: Numpy, Sklearn, NLTK, Pandas, Matplotlib
 
-[Report Link](./Stock_Data_Classification_Report.pdf)
+[Report Link](/extra/Stock_Data_Classification_Report.pdf)
