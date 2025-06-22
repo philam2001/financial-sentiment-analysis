@@ -4,8 +4,8 @@
 ## Table of Contents
 - [Data Set](#data-set)
 - [ML Methods](#ml-methods)
-- [Miscellaneous](#miscellaneous)
 - [Next Steps](#next-steps)
+- [Miscellaneous](#miscellaneous)
 ## Data Set 
 
 My CPEN 355 Final Project is based off the [Stock Market Sentiment](https://www.kaggle.com/datasets/yash612/stockmarket-sentiment-dataset/data) Kaggle data set. 
@@ -34,4 +34,4 @@ A few ideas on how to improve the accuracy of the model:
 
 **Libraries used**: Numpy, Sklearn, NLTK, Pandas, Matplotlib
 
-[Report Link](/extra/Stock_Data_Classification_Report.pdf)
+🔗 Full documentation of the Project Results are in this: [Report Link](/extra/Stock_Data_Classification_Report.pdf)
